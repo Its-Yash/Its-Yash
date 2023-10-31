@@ -34,6 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-yash&" alt="its-yash" /></p>
 <br>
 
-[![@itsyash's Holopin board](https://holopin.io/api/user/board?user=itsyash)](https://holopin.io/@itsyash)
-
 [![@itsyash's Holopin board](https://holopin.me/itsyash)](https://holopin.io/@itsyash)
