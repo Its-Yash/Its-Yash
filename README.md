@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-yash&show_icons=true&locale=en" alt="its-yash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-yash&" alt="its-yash" /></p>
+<br>
+[![An image of @itsyash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsyash)](https://holopin.io/@itsyash)
