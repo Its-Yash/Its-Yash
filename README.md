@@ -1,7 +1,7 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Yash Pathak</h1>
 <h3 align="center">A passionate student developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-yash&label=Profile%20views&color=0e75b6&style=flat" alt="its-yash" /> </p>
 
