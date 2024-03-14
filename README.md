@@ -32,8 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-yash&show_icons=true&locale=en" alt="its-yash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-yash&" alt="its-yash" /></p>
-[![Its-Yash's GitHub | Stats](https://stats.quine.sh/Its-Yash/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Its-Yash)
+
+[![Its-Yash's GitHub | Stats](https://stats.quine.sh/Its-Yash/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Its-Yash) 
 [![Its-Yash's GitHub | Languages Over Time](https://stats.quine.sh/Its-Yash/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Its-Yash)
-<br>
 
 [![@itsyash's Holopin board](https://holopin.me/itsyash)](https://holopin.io/@itsyash)
